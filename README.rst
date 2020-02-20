@@ -1,7 +1,7 @@
 Geddit Studio
 ===================================
 
-Mirrored from OBS Studio <https://obsproject.com>
+Forked from OBS Studio <https://obsproject.com>
 
 Origin: https://github.com/obsproject/obs-studio
 
